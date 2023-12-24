@@ -6,4 +6,8 @@ spawn_path = -1;
 
 count = 0;
 
-path_start(Path2, global.spd, 0, 1);
+if(room == Test){
+    path_to_Follow = PathA_test;
+}
+
+path_start(path_to_Follow, global.spd, path_action_reverse, 1);

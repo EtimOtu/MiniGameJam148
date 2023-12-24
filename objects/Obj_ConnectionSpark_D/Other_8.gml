@@ -5,12 +5,12 @@
 //}
 var player = instance_find(Obj_Player, 0);
 if(count < 1){
-	path_reverse(Path1);
-	path_start(Path1, global.spd, 0, 1);
+	//path_reverse(PathD);
+	//path_start(PathD, global.spd, 0, 1);
 	count++;
 }
 else{
-	path_reverse(Path1);
+	//path_reverse(PathD);
 	instance_destroy();
 	count = 0;
 	player.remaining_charges--;

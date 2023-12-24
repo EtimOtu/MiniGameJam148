@@ -5,4 +5,11 @@ spawn_path = -1;
 
 count = 0;
 
-path_start(Path1, global.spd, 0, 1);
+if(room == Test){
+    path_to_Follow = PathS_test;
+}
+else if(room = Level1){
+	path_to_Follow = PathS_level1;
+}
+
+path_start(path_to_Follow, global.spd, path_action_reverse, 1);

@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "SparkSpawners",
+    "path": "folders/Objects/SparkSpawners.yy",
   },
   "parentObjectId": null,
   "persistent": false,

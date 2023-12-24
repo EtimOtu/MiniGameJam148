@@ -3,6 +3,6 @@
 
 
 // Reversing the path before running it again so its goes back and forth
-path_reverse(EnemyPath);
-path_start(EnemyPath, 4, 0, 1);
+path_reverse(path_to_Follow);
+path_start(path_to_Follow, movespeed, 0, 1);
 

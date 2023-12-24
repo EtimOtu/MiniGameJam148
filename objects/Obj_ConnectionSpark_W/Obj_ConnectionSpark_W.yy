@@ -10,10 +10,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Spark_Obj",
+    "path": "folders/Objects/Spark_Obj.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_ConnectionSparkMaster",
+    "path": "objects/Obj_ConnectionSparkMaster/Obj_ConnectionSparkMaster.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
