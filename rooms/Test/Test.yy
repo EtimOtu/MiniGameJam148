@@ -19,6 +19,7 @@
     {"name":"inst_FD4BBA6","path":"rooms/Test/Test.yy",},
     {"name":"inst_638BC84E","path":"rooms/Test/Test.yy",},
     {"name":"inst_5216166B","path":"rooms/Test/Test.yy",},
+    {"name":"inst_82C6A36","path":"rooms/Test/Test.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -43,6 +44,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_Switch","path":"objects/Obj_Switch/Obj_Switch.yy",},"propertyId":{"name":"Xpos","path":"objects/Obj_Switch/Obj_Switch.yy",},"value":"1088",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_Switch","path":"objects/Obj_Switch/Obj_Switch.yy",},"propertyId":{"name":"Ypos","path":"objects/Obj_Switch/Obj_Switch.yy",},"value":"32",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":488.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_82C6A36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":68.0,"y":244.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRPathLayer","resourceVersion":"1.0","name":"BottomPath","colour":4278190335,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"pathId":{"name":"PathS_test","path":"paths/PathS_test/PathS_test.yy",},"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRPathLayer","resourceVersion":"1.0","name":"EnemyPath","colour":4278190335,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"pathId":{"name":"EnemyPath_test","path":"paths/EnemyPath_test/EnemyPath_test.yy",},"properties":[],"userdefinedDepth":false,"visible":true,},
