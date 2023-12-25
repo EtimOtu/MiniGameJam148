@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "Connection_song_3",
   "audioGroupId": {
-    "name": "audio_music",
-    "path": "audiogroups/audio_music",
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
   },
   "bitDepth": 1,
   "bitRate": 128,
